@@ -16,16 +16,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📜 Experience
-[NCHC(National Center for High-performance Computing)](https://www.nchc.org.tw/) Intern
-NTHU-CS342400-Fundamental High Performance Computing Cluster Practice-2023 TA
+- [NCHC(National Center for High-performance Computing)](https://www.nchc.org.tw/) Intern 
+- NTHU-CS342400-Fundamental High Performance Computing Cluster Practice-2023 TA
 
 
 ## 📙 Interests Topics
-![High Performance Computing](https://img.shields.io/badge/-High%20Performance%20Computing-007ACC?style=flat-square)
-![Parallel Programming](https://img.shields.io/badge/-Parallel%20Programming-brightgreen?style=flat-square)
-![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-ff69b4?style=flat-square)
-![System Design](https://img.shields.io/badge/-System%20Design-orange?style=flat-square)
-![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-blueviolet?style=flat-square)
+![High Performance Computing](https://img.shields.io/badge/-High%20Performance%20Computing-004D99?style=flat-square&logoColor=white)
+![Parallel Programming](https://img.shields.io/badge/-Parallel%20Programming-007800?style=flat-square&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-99004C?style=flat-square&logoColor=white)
+![System Design](https://img.shields.io/badge/-System%20Design-CC7A00?style=flat-square&logoColor=white)
+![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
 
 
 ## HPCAI(High-Performance Computing and Artificial Intelligence)
