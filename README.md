@@ -26,7 +26,7 @@
 - NTHU-CS342400-Fundamental High Performance Computing Cluster Practice-2023 TA
 
 
-## 📙 Interests Topics
+## 📙 Interested Topics
 ![High Performance Computing](https://img.shields.io/badge/-High%20Performance%20Computing-004D99?style=flat-square&logoColor=white)
 ![Parallel Programming](https://img.shields.io/badge/-Parallel%20Programming-007800?style=flat-square&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-99004C?style=flat-square&logoColor=white)
