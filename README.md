@@ -15,6 +15,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MPI](https://img.shields.io/badge/-MPI-007ACC?style=flat-square&logoColor=white)
+![OpenMP](https://img.shields.io/badge/-OpenMP-00599C?style=flat-square&logoColor=white)
+![OpenACC](https://img.shields.io/badge/-OpenACC-3776AB?style=flat-square&logoColor=white)
+
 
 
 ## 📜 Experience
@@ -28,6 +32,7 @@
 ![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-99004C?style=flat-square&logoColor=white)
 ![System Design](https://img.shields.io/badge/-System%20Design-CC7A00?style=flat-square&logoColor=white)
 ![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
+![MLOps](https://img.shields.io/badge/-MLOps-FCC624?style=flat-square&logoColor=black)
 
 
 ## HPCAI(High-Performance Computing and Artificial Intelligence)
