@@ -32,7 +32,7 @@
 ![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-99004C?style=flat-square&logoColor=white)
 ![System Design](https://img.shields.io/badge/-System%20Design-CC7A00?style=flat-square&logoColor=white)
 ![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
-![MLOps](https://img.shields.io/badge/-MLOps-FCC624?style=flat-square&logoColor=white)
+![MLOps]([https://img.shields.io/badge/-MLOps-FCC624?style=flat-square&logoColor=white](https://img.shields.io/badge/-MLOps-007ACC?style=flat-square&logoColor=white)
 
 
 ## HPCAI(High-Performance Computing and Artificial Intelligence)
