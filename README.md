@@ -18,7 +18,7 @@
 ![MPI](https://img.shields.io/badge/-MPI-007ACC?style=flat-square&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/-OpenMP-00599C?style=flat-square&logoColor=white)
 ![OpenACC](https://img.shields.io/badge/-OpenACC-3776AB?style=flat-square&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine Learning-FF6F00?style=flat-square&logo=Machine Learning&logoColor=white)
+![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
 
 
 ## 📜 Experience
@@ -34,9 +34,8 @@
 ![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
 ![MLOps](https://img.shields.io/badge/-MLOps-007ACC?style=flat-square&logoColor=white)
 ![GPU](https://img.shields.io/badge/-GPU-76B900?style=flat-square&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%Science-CC7A00?style=flat-square&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/-Data%Enginnering%-004D99?style=flat-square&logoColor=white)
-
+![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat-square&logo=data-science&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-007ACC?style=flat-square&logo=data-engineering&logoColor=white)
 
 
 ## HPCAI(High-Performance Computing and Artificial Intelligence)
