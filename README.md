@@ -1,70 +1,65 @@
 # Hi there, I'm Evan Pai 👋
 
 ## 👨‍💻 About Me
-- 🎓 I’m currently studying Computer Science at NTHU(National Tsing Hua University)
+- 🎓 Master of Data Science student at the **University of British Columbia** (graduating Jun 2027, CAD $10,000 MDS Scholarship)
+- 🎓 B.S. Computer Science, **National Tsing Hua University** (NTHU), Taiwan, GPA 3.97/4.30
+- 🔭 I work on AI infrastructure: LLM inference optimization, GPU software (CUDA and ROCm), and HPC
+- 🔍 Looking for **full-time new-grad roles in 2027** (AI infrastructure / ML systems, MLE, SWE, DS), in Vancouver or remote.
+- 🌐 Website: [evanpai.github.io](https://evanpai.github.io) · [Resume](https://evanpai.github.io/files/EvanPai_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/evanpai/)
 - 📫 How to reach me: evan105pai@gmail.com
-- ⚡ Fun fact: I like cooking and martial arts
+- ⚡ Fun fact: I train Muay Thai and go to conventions in cosplay
 
 ## 🛠 Tech Stack
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ROCm](https://img.shields.io/badge/-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![MPI](https://img.shields.io/badge/-MPI-007ACC?style=flat-square&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/-OpenMP-00599C?style=flat-square&logoColor=white)
-![OpenACC](https://img.shields.io/badge/-OpenACC-3776AB?style=flat-square&logoColor=white)
-![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
-
+![NCCL](https://img.shields.io/badge/-NCCL-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/-vLLM-30A2FF?style=flat-square&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-0078D4?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-189FDD?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Quarto](https://img.shields.io/badge/-Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
 
 ## 📜 Experience
-- [NCHC(National Center for High-performance Computing)](https://www.nchc.org.tw/) Intern 
-- NTHU-CS342400-Fundamental High Performance Computing Cluster Practice-2023 TA
+- **NTHU LSA Lab**, Research Assistant, industry–academia collaboration (Jul 2022 – Jul 2025)
+- **IBM**, Data Scientist Intern, Taipei (Jul – Aug 2024)
+- **[NCHC](https://www.nchc.org.tw/)** (National Center for High-performance Computing), Software Engineer Intern (Jul – Aug 2023)
+- **NTHU**, Teaching Assistant (2023 – 2025): Operating Systems, Parallel Programming, Fundamental and Advanced HPC Cluster Practice
 
+## 🏆 HPC-AI Competitions
 
-## 📙 Interested Topics
-![High Performance Computing](https://img.shields.io/badge/-High%20Performance%20Computing-004D99?style=flat-square&logoColor=white)
-![Parallel Programming](https://img.shields.io/badge/-Parallel%20Programming-007800?style=flat-square&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-99004C?style=flat-square&logoColor=white)
-![System Design](https://img.shields.io/badge/-System%20Design-CC7A00?style=flat-square&logoColor=white)
-![Machine Learning / Artificial Intelligence](https://img.shields.io/badge/-Machine%20Learning%20%2F%20Artificial%20Intelligence-5C2D91?style=flat-square&logoColor=white)
-![MLOps](https://img.shields.io/badge/-MLOps-007ACC?style=flat-square&logoColor=white)
-![GPU](https://img.shields.io/badge/-GPU-76B900?style=flat-square&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat-square&logo=data-science&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-007ACC?style=flat-square&logo=data-engineering&logoColor=white)
+[SC24 Student Cluster Competition](https://sc24.supercomputing.org/) (Atlanta, US)
+- 3rd Place 🥉
+- MLPerf Stable Diffusion with TensorRT on H100, YOLO11x object detection, DataLife reproducibility challenge
 
+[ISC 2024 Student Cluster Competition](https://www.hpcadvisorycouncil.com/events/student-cluster-competition/) (Hamburg, Germany)
+- 2nd Place 🥈
+- Sped up the Neko CFD solver **18.5×** on 10× H100
 
-## HPCAI(High-Performance Computing and Artificial Intelligence)
-
-[2023 APAC HPCAI Competition](https://www.hpcwire.com/off-the-wire/hpc-ai-advisory-council-announces-results-for-the-6th-apac-hpc-ai-competition/)
-- 1st Place🥇
-- Member of NTHU-ZY team
-- [BLOOM](https://huggingface.co/bigscience/bloom)
+[2023 APAC HPC-AI Competition](https://www.hpcwire.com/off-the-wire/hpc-ai-advisory-council-announces-results-for-the-6th-apac-hpc-ai-competition/)
+- 1st Place 🥇 (Member of NTHU-ZY team)
+- [BLOOM](https://huggingface.co/bigscience/bloom) LLM inference **11.4×** faster with tensor parallelism, DeepSpeed, and NCCL tuning
 
 [2023 High Performance Application Competition](https://www.nchc.org.tw/Message/MessageView?id=3854&menutype=0&sitemenuid=8&mid=92)
-- 2nd Place🥈
-- Member of NTHU-ZY team
-- [FourCastNet](https://docs.nvidia.com/deeplearning/modulus/modulus-sym/user_guide/neural_operators/fourcastnet.html)
+- 2nd Place 🥈 (Member of NTHU-ZY team)
+- [FourCastNet](https://docs.nvidia.com/deeplearning/modulus/modulus-sym/user_guide/neural_operators/fourcastnet.html) end to end: multi-node training, inference, and visualization
 
-[2023 ISC Student Cluster Competition(Online)](https://www.hpcadvisorycouncil.com/events/2023/student-cluster-competition/)
+[2023 ISC Student Cluster Competition (Online)](https://www.hpcadvisorycouncil.com/events/2023/student-cluster-competition/)
 - Member of NTHU team
 - [Quantum Espresso](https://www.quantum-espresso.org/)
 
-<!--
-**EvanPai/EvanPai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Publication
+C.-A. Pai *et al.*, "Critique of 'Data Flow Lifecycles for Optimizing Workflow Coordination'," *IEEE Transactions on Parallel and Distributed Systems* (TPDS), 2025. [DOI: 10.1109/TPDS.2025.3627428](https://doi.org/10.1109/TPDS.2025.3627428)
