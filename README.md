@@ -4,7 +4,7 @@
 - 🎓 Master of Data Science student at the **University of British Columbia** (graduating Jun 2027, CAD $10,000 MDS Scholarship)
 - 🎓 B.S. Computer Science, **National Tsing Hua University** (NTHU), Taiwan, GPA 3.97/4.30
 - 🔭 I work on AI infrastructure: LLM inference optimization, GPU software (CUDA and ROCm), and HPC
-- 🔍 Looking for **full-time new-grad roles in 2027** (AI infrastructure / ML systems, MLE, SWE, DS), in Vancouver or remote.
+- 🔍 Looking for **full-time new-grad roles in 2027** (AI infrastructure / ML systems, MLE, SWE, DS), in Vancouver, Seattle, the SF Bay Area, or remote
 - 🌐 Website: [evanpai.github.io](https://evanpai.github.io) · [Resume](https://evanpai.github.io/files/EvanPai_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/evanpai/)
 - 📫 How to reach me: evan105pai@gmail.com
 - ⚡ Fun fact: I train Muay Thai and go to conventions in cosplay
